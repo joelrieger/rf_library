@@ -1,17 +1,5 @@
 import numpy as np
 
-text="""R:R1  2 1 50 
-R:R2  0 2 25 
-R:R3  3 2 12 
-R:R4  0 3 12
-Vsrc:V1 3 0 2"""
-
-
-text="""Vsrc:V1 0 1 1
-R:R1 1 2 5
-R:R2 0 2 10
-Isrc:I1 0 2 1"""
-
 text="""Vsrc:V1 0 1 1
 Vsrc:V2 3 4 1
 R:R1 1 2 10
